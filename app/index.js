@@ -1,6 +1,9 @@
-const express = require("express");
-const morgan = require("morgan");
-const config = require("./config");
+// const express = require("express");
+// const morgan = require("morgan");
+// const config = require("./config");
+import express from "express";
+import morgan from "morgan";
+import config from "./config.js";
 
 const app = express();
 app.use(morgan("combined"));
