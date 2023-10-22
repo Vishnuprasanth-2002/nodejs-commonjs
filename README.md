@@ -8,3 +8,8 @@ npm i express
     use module to export
 
     using require to import
+
+### how to change import method
+
+    add type :module in packge.json
+    
