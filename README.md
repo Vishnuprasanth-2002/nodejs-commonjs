@@ -12,4 +12,5 @@ npm i express
 ### how to change import method
 
     add type :module in packge.json
-    
+    use export default 
+    import using normal import method
