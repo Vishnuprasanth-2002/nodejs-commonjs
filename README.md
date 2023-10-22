@@ -3,5 +3,8 @@
 ```
 npm i express
 ```
-use module to export
-using require to import
+### useage
+
+    use module to export
+
+    using require to import
