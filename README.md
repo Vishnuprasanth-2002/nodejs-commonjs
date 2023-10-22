@@ -14,3 +14,4 @@ npm i express
     add type :module in packge.json
     use export default 
     import using normal import method
+    while import js file use .js at the end of the import file
